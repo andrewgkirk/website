@@ -3,9 +3,9 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
-title = "Academic"
+title = "Sensing with light"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -51,7 +51,7 @@ hero_media = "hero-academic.png"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+Here in the **Photonic Biosensing Laboratory** we create photonic systems that can detect minute quantities of specific molecules in samples from patients, animals, plants or the environment. 
 
 Build **Anything** with Widgets
 
