@@ -26,12 +26,20 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Ultrafast PCR"
+    tag = "PCR"
   
   [[content.filter_button]]
+    name = "Resonant cavity sensors"
+    tag = "resonant"
+
+    [[content.filter_button]]
+    name = "SPR and LSPR sensors"
+    tag = "SPR"
+
+    [[content.filter_button]]
     name = "Other"
-    tag = "Demo"
+    tag = "other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -57,8 +65,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+   gradient_start = "DeepSkyBlue"
+   gradient_end = "LightSkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
