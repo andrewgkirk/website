@@ -63,8 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigator
 ---
 
 Andrew Kirk is a professor of electrical and computer engineering at McGill University. His research interests include optical biosensors for point of care medical diagnostics and environmental sensing, and integrated and nanophotonic devices for sensing and communications. He leads the Photonic Biosensors group, which develops low cost and rapid solutions for healthcare and the environment.
