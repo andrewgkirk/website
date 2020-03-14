@@ -30,7 +30,7 @@ education:
   - course: PhD in Physics
     institution: King's College, London
     year: 1992
-  - course: BSc in Physics
+  - course: BSc (Hons) Physics
     institution: Bristol University, UK
     year: 1989
 

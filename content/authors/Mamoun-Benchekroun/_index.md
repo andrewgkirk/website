@@ -1,10 +1,10 @@
 ---
 # Display name
-name: "Rania Gamal"
+name: "Mamoun Benchekroun"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Rania Gamal"
+- Name "Mamoun Benchekroun"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,16 +14,16 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: McGill University
-  url: "www.mcgill.ca"
+- name: McGill University, Department of Electrical and Computer Engineering
+  url: "www.mcgill.ca/ece"
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is a short placeholder bio for Rania
+bio: 
 
 # List each interest with a dash
 interests:
-- Resonant cavity biosensors
-- Silicon photonics
+- Interest 1
+- Interest 2
 
 education:
   courses:
@@ -63,5 +63,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Master's Students
 ---

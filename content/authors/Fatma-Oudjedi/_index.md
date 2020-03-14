@@ -1,10 +1,10 @@
 ---
 # Display name
-name: "Rania Gamal"
+name: "Fatma Oudjedi"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Rania Gamal"
+- Name "Fatma Oudjedi"
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,12 +18,12 @@ organizations:
   url: "www.mcgill.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is a short placeholder bio for Rania
+bio: 
 
 # List each interest with a dash
 interests:
-- Resonant cavity biosensors
-- Silicon photonics
+- Interest 1
+- Interest 2
 
 education:
   courses:
