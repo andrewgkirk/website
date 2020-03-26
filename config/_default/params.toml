@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "ocean"
+theme = "minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -93,7 +93,7 @@ address = {street = "3480 University Street", city = "Montreal", region = "QC", 
 coordinates = {latitude = "45.506072", longitude = "-73.576202"}
 
 # Directions for visitors to locate you.
-directions = "Enter the McConnell Building and take the elevator to the 7th floor. My office is on the next floor up"
+directions = "My office is McConnell Engineering #809. Enter the McConnell Building and take the elevator to the 7th floor. My office is on the next floor up"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

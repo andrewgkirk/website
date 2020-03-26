@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Here in the Photonic Biosensing Laboratory we create photonic systems that can detect minute quantities of specific molecules in samples from patients, animals, plants or the environment.
+The members of the **Photonic Biosensing Laboratory** create optical systems that can detect minute quantities of specific molecules in samples from patients, animals, plants or the environment. Our goal is to create **point of care** rapid diagnostic technologies and highly sensitive systems for **environmental sensing**.
 
 

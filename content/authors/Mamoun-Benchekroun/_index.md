@@ -18,21 +18,19 @@ organizations:
   url: "www.mcgill.ca/ece"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Mamoun received his B.Eng in the Department of Electrical Engineering at McGill University. He has continued his studies and is currently pursuing his MS at McGill University under the supervision of Professor Andrew Kirk. His research interests include optimization of a thermocycling setup for fast PCR with real time monitoring using laser based heating and fluorescence.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Laser Heating
+- Fast PCR
+- Fluorescence detection
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: Bachelor of Engineering, Electrical Engineering
+    institution: McGill University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mamoun.benchekroun@mail.mcgill.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
@@ -65,3 +63,4 @@ email: ""
 user_groups:
 - Master's Students
 ---
+Mamoun received his B.Eng in the Department of Electrical Engineering at McGill University. He has continued his studies and is currently pursuing his MS at McGill University under the supervision of Professor Andrew Kirk. His research interests include optimization of a thermocycling setup for fast PCR with real time monitoring using laser based heating and fluorescence.

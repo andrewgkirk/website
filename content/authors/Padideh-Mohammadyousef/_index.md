@@ -18,21 +18,22 @@ organizations:
   url: "www.mcgill.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is a short placeholder bio for Padi
+bio: Padideh received her M.Eng. in Electrical Engineering-Photonics from Boston University. She joined Photonic Biosensing Lab at McGill University in 2017 and is currently pursuing her PhD in Electrical Engineering. Her research focuses on real-time detection of plasmonically amplified DNA via a miniature photonic Polymerase Chain Reaction (PCR) system for point-of-care (POC) applications.
 
 # List each interest with a dash
 interests:
-- Point of care biosensing
-- Burning VCSELs out
+- Nanophotonics
+- Medical application of optics lasers
+- Experimental and numerical modeling of light propagation for medical diagnostics
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: M.Eng. in Electrical Engineering-Photonics
+    institution: Boston University
+    year: 2014
+  - course: BSc in Electrical Engineering-Electronics
+    institution: Central Tehran University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas  
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:padideh.mohammadyousef@mail.mcgill.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
@@ -65,3 +66,4 @@ email: ""
 user_groups:
 - PhD Students
 ---
+Padideh received her M.Eng. in Electrical Engineering-Photonics from Boston University. She joined Photonic Biosensing Lab at McGill University in 2017 and is currently pursuing her PhD in Electrical Engineering. Her research focuses on real-time detection of plasmonically amplified DNA via a miniature photonic Polymerase Chain Reaction (PCR) system for point-of-care (POC) applications.
