@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SPIE BIOS 2020"
+title: "CIHR COVID19 Funding"
 subtitle: ""
-summary: "Ultrafast PCR research results presented at SPIE BIOS"
+summary: "Kirk-Trifiro labs obtain CIHR funding for COVID-19 research"
 authors: []
-tags: [PCR]
+tags: [PCR, COVID19]
 categories: []
-date: 2020-03-03T16:02:23-05:00
-lastmod: 2020-03-03T16:02:23-05:00
+date: 2020-04-02T15:55:20-04:00
+lastmod: 2020-04-02T15:55:20-04:00
 featured: false
 draft: false
 
@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ["plasmonic-pcr"]
 ---
-We presented our latest results of fluorophore-free ultrafast plasmonic PCR at [SPIE-BIOS 2020](https://spie.org/conferences-and-exhibitions/photonics-west/bios?SSO=1). In an oral presentation and a poster we described the design of a compact VCSEL-based ultrafast PCR system and showed that by using ultraviolet transmission measurements it is possible to detect single DNA molecules without the need for fluorophores.
+The research laboratories of Mark Trifiro and Andrew Kirk recntly obtained funding from CIHR to pursue urgent research to develop a rapid point-of-care detection system for COVID-19 infection. This system will be based on our ultrafast plasmonic PCR technique, and has the potential to yield a result in 15 minutes.
