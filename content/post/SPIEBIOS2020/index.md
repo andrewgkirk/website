@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ["plasmonic-pcr"]
 ---
-We presented our latest results of fluorophore-free ultrafast plasmonic PCR at [SPIE-BIOS 2020](https://spie.org/conferences-and-exhibitions/photonics-west/bios?SSO=1). In an oral presentation and a poster we described the design of a compact VCSEL-based ultrafast PCR system and showed that by using ultraviolet transmission measurements it is possible to detect single DNA molecules without the need for fluorophores.
+We presented the latest results of research by {{% mention "Padideh-Mohammadyousef" %}} on fluorophore-free ultrafast plasmonic PCR at [SPIE-BIOS 2020](https://spie.org/conferences-and-exhibitions/photonics-west/bios?SSO=1). In an [oral presentation](/publication/rn-1380) and a [poster](/publication/rn-1379) we described the design of a compact VCSEL-based ultrafast PCR system and showed that by using ultraviolet transmission measurements it is possible to detect single DNA molecules without the need for fluorophores.
