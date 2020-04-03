@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Recent News"
 subtitle = ""
 
 [content]
@@ -29,6 +29,10 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
+
+ [design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"] 
   
 [design]
   # Toggle between the various page layout types.
@@ -36,7 +40,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -45,7 +49,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+   color = "white"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
