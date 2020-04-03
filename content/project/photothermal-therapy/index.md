@@ -39,7 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-We are developing improved methods for photothermal treatment of cancer tumours, focusing on modifications of functionalised nanoparticles that can improve absorption while also being bio-compatible. We are also investigating improved methods of beam delivery.
+We are developing improved methods for photothermal treatment of cancer tumours, focusing on modifications of functionalised nanoparticles that can improve absorption while also being bio-compatible. We are also investigating improved methods of beam delivery.  
+{{< figure src="/img/photothermal.png" caption="Bioheat model" >}}
 
 **Students currently involved in this project:**
  - {{% mention "Fatma-Oudjedi" %}}

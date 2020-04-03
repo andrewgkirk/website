@@ -39,10 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-The exquisite sensitivity of high quality factor (Q-factor) whispering gallery mode (WGM) optical resonators has been recognized in sensing for many years, but most researchers have focused on measuring the frequency shift of the resonant modes, requiring a tunable laser. In 2012 we demonstrated for the first time that it is possible to perform biosensing in the time domain by measuring the phase shift of a modulated optical intensity signal that is injected into a functionalised WGM resonator \[ [1](/publication/rn-1236) \], using PS-CRDS. 
-
-![Direct measurement of Q-factor change using PSCRDS in an optical microtoroid](qchangePSCRDS)
-
+The exquisite sensitivity of high quality factor (Q-factor) whispering gallery mode (WGM) optical resonators has been recognized in sensing for many years, but most researchers have focused on measuring the frequency shift of the resonant modes, requiring a tunable laser. In 2012 we demonstrated for the first time that it is possible to perform biosensing in the time domain by measuring the phase shift of a modulated optical intensity signal that is injected into a functionalised WGM resonator \[ [1](/publication/rn-1236) \], using PS-CRDS.  
+{{< figure src="/img/qchangePSCRDS.png" caption="Direct measurement of Q-factor change using PSCRDS in an optical microtoroid \[ [1](/publication/rn-1236) \]">}}
 
 We have since been working towards entirely removing the need for a tunable laser in WGM sensing by employing a modulated source that has a linewidth spanning two or more WGM resonance lines. In this way some light from the source always couples into the cavity even as the cavity resonance shifts during a sensing event. To accomplish this we first have to developed a new analytical model for modulated partially coherent signals in optical resonators \[ [2](/publication/rn-1378) \].  
 
