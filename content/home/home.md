@@ -29,8 +29,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "headers/background-image.tiff"  # Name of image in `static/img/`.
+  image_darken = 0.7  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["20px", "0", "0", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -51,5 +51,7 @@ subtitle = ""
 +++
 
 The members of the **Photonic Biosensing Laboratory** create optical systems that can detect minute quantities of specific molecules in samples from patients, animals, plants or the environment. Our goal is to create **point of care** rapid diagnostic technologies and highly sensitive systems for **environmental sensing**.
+
+We are located in the [Department of Electrical and Computer Engineering](www.mcgill.ca/ece) of [McGill University](www.mcgill.ca).
 
 
