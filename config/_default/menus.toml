@@ -40,7 +40,13 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "CV"
-    url = "files/cv.pdf"
-    weight = 70
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70
+
+# just added this to try to link to McGill
+[[main_right]]
+    name="McGill University"
+    url="http://www.mcgill.ca"
+    weight = 80

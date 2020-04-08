@@ -18,20 +18,22 @@ organizations:
   url: "www.mcgill.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Mohammad received his BSc in Electrical Engineering at Shiraz University of Technology (sutech). He has continued his studies and received his MSc in Electrical Engineering at Shiraz University. His MSc thesis was about plasmonic nano-lasers or spasers based on an arrayed of coupled nanorods. Now he is pursuing his PhD in our lab at the Photonic Systems Group (PSG) of McGill University. His research includes integrated biosensing systems based on microcavities and RF-modulated optical signals.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+-  Optical & Electrical Biosensing
+-  Point of Care (Medical diagnostics & environmental)
+-  Photonics and Plasmonics 
+-  Optoelectronics
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
+  - course:  MSc in Electrical Engineering, Minor in Electronics
+    institution: Shiraz University
+    year: 2017
+  - course: BSc in Electrical Engineering, Minor in Electronics
+    institution: Shiraz University of Technology (sutech)
     year: 2012
 
 # Social/Academic Networking
@@ -41,16 +43,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: 'mailto:mohammadhossein.motavas@mail.mcgill.ca     '  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
+  link: https://scholar.google.com/citations?user=ocgYKjYAAAAJ&hl=en
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
+- icon: linkedin-in
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://www.linkedin.com/in/mohammad-hossein-motavas-a7041a11b
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,3 +70,4 @@ email: ""
 user_groups:
 - PhD Students
 ---
+Mohammad received his BSc in Electrical Engineering at Shiraz University of Technology (sutech). He has continued his studies and received his MSc in Electrical Engineering at Shiraz University. His MSc thesis was about plasmonic nano-lasers or spasers based on an arrayed of coupled nanorods. Now he is pursuing his PhD in our lab at the Photonic Systems Group (PSG) of McGill University. His research includes integrated biosensing systems based on microcavities and RF-modulated optical signals.

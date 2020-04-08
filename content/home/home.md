@@ -51,6 +51,6 @@ subtitle = ""
 +++
 The members of the **Photonic Biosensing Laboratory** create optical systems that can detect minute quantities of specific molecules in samples from patients, animals, plants or the environment. Our goal is to create **point of care** rapid diagnostic technologies and highly sensitive systems for **environmental sensing**.
 
-We are located in the [Department of Electrical and Computer Engineering](www.mcgill.ca/ece) of [McGill University](www.mcgill.ca).
+We are located in the [Department of Electrical and Computer Engineering](http://www.mcgill.ca/ece) of [McGill University](http://www.mcgill.ca).
 
 

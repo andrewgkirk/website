@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CIHR COVID19 Funding"
+title: "OSA Biophotonics Congress"
 subtitle: ""
-summary: "Kirk-Trifiro labs obtain CIHR funding for COVID-19 research"
+summary: ""
 authors: []
-tags: [PCR, COVID19]
+tags: []
 categories: []
-date: 2020-04-02T15:55:20-04:00
-lastmod: 2020-04-02T15:55:20-04:00
+date: 2020-04-08T10:04:11-04:00
+lastmod: 2020-04-08T10:04:11-04:00
 featured: false
 draft: false
 
@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ["plasmonic-pcr"]
 ---
-The research laboratories of Mark Trifiro and Andrew Kirk recently obtained funding from CIHR to pursue urgent research to develop a rapid point-of-care detection system for COVID-19 infection. This system will be based on our ultrafast plasmonic PCR technique, and has the potential to yield a result in 15 minutes.
+{{% mention "Padideh-Mohammadyousef" %}} will be presenting her research on ultrafast plasmonically-driven PCR at the OSA Biomedical Optics Congress (April 20-23). Due to the Corona virus pandemic this will be a virtual meeting this year and registration is free to all. Registration information is available [here](https://www.osa.org/en-us/meetings/osa_meetings/osa_biophotonics_congress_biomedical_optics/registration/)
