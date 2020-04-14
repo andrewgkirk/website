@@ -18,21 +18,20 @@ organizations:
   url: "www.mcgill.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Fatma received her B. Sc. degree in Physics from McGill University in 2016. She is currently pursuing her graduate studies under the supervision of Prof. Andrew Kirk. Her research focuses on photo-thermal therapy using near-infrared absorbing hybrid nanoparticles. 
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Nanoplasmonics
+- Nanoscale thermal therapy
+- Numerical modeling
+
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: BSc. Physics
+    institution: McGill University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: 'mailto:fatma.oudjedi@mail.mcgill.ca'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,3 +64,4 @@ email: ""
 user_groups:
 - PhD Students
 ---
+Fatma received her B. Sc. degree in Physics from McGill University in 2016. She is currently pursuing her graduate studies under the supervision of Prof. Andrew Kirk. Her research focuses on photo-thermal therapy using near-infrared absorbing hybrid nanoparticles. 
